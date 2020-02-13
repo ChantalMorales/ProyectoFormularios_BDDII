@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{68B8412E-2A71-4BEF-8D7D-E26A360EE521}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorFormularios", "InstaladorFormularios\InstaladorFormularios.vdproj", "{49EE9D25-7DC2-4067-8162-4C4A702F2808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B8412E-2A71-4BEF-8D7D-E26A360EE521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B8412E-2A71-4BEF-8D7D-E26A360EE521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B8412E-2A71-4BEF-8D7D-E26A360EE521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B8412E-2A71-4BEF-8D7D-E26A360EE521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EE9D25-7DC2-4067-8162-4C4A702F2808}.Debug|Any CPU.ActiveCfg = Debug
+		{49EE9D25-7DC2-4067-8162-4C4A702F2808}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E47540-1B02-497C-B8B2-21A03B80FF2A}
+	EndGlobalSection
+EndGlobal
